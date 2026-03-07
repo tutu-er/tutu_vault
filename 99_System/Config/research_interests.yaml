@@ -1,0 +1,54 @@
+vault_path: "/home/node/.openclaw/workspace/tutu_vault"
+
+research_domains:
+  "大模型":
+    keywords:
+      - "large language model"
+      - "LLM"
+      - "GPT"
+      - "transformer"
+      - "foundation model"
+      - "预训练"
+      - "prompt"
+      - "instruction tuning"
+      - "RLHF"
+      - "in-context learning"
+    arxiv_categories:
+      - "cs.CL"
+      - "cs.AI"
+      - "cs.LG"
+  
+  "智能体":
+    keywords:
+      - "agent"
+      - "multi-agent"
+      - "autonomous agent"
+      - "agent system"
+      - "intelligent agent"
+      - "reinforcement learning"
+      - "planning"
+      - "reasoning"
+      - "tool use"
+      - "function calling"
+    arxiv_categories:
+      - "cs.AI"
+      - "cs.MA"
+      - "cs.LG"
+      - "cs.RO"
+  
+  "电力系统优化":
+    keywords:
+      - "power system"
+      - "unit commitment"
+      - "UC"
+      - "economic dispatch"
+      - "optimal power flow"
+      - "OPF"
+      - "energy optimization"
+      - "grid optimization"
+      - "electricity market"
+      - "renewable energy integration"
+    arxiv_categories:
+      - "math.OC"
+      - "cs.SY"
+      - "eess.SY"
