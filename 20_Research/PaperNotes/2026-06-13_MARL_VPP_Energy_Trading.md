@@ -2,8 +2,10 @@
 title: "MARL for VPP Energy Trading - 方法解读"
 date: 2026-06-13
 tags: [论文笔记, 强化学习, VPP, 能源交易]
-status: 待读
+status: ⚠️ 疑为幻觉/需核实
 ---
+
+> ⚠️ **2026-06-16 核实**: 经多次搜索（arXiv、Brave Search），未找到标题为「Multi-Agent Reinforcement Learning for VPP Energy Trading」、作者为「Zhang et al. (UC Berkeley/EPRI)」的论文。该条目可能是在论文整理过程中由 LLM 合成的幻觉内容——方法论描述（MADDPG + CTDE + 注意力通信模块 + VPP 市场结算）虽在领域内合理，但不存在对应原文。保留笔记供参考，建议以 arXiv 2507.14995 (LLM-MARL P2P Energy Trading) 和 JEST 论文「Adaptive multi-agent RL for VPP」作为替代阅读。
 
 # MARL for VPP 能源交易
 
