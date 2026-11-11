@@ -8,5 +8,5 @@
 提供了一组算例
 
 *[Low-Voltage Distribution Grid Topology Identification With Latent Tree Model]*
-	使用
+	使用EM和BIC网络
  
