@@ -16,8 +16,16 @@
 	 传统方法，递归分组，需要电流
 	
 提供电表数据
+![[Pasted image 20261111213210.png|401]]
 
 *[Topology  identification of radial distribution networks using smart meter data]*
 	传统RG方法，标准灵敏度分析，
 *[Topology Identification of Distribution Networks With Partial Smart Meter Coverage]*
 	同作者论文，使用了部分电表数据，做低可观性部分分析
+
+
+*[Learning Distribution Grid Topologies: A Tutorial]*
+	大型综述文章，综合了各种方法，包括LVDG
+
+*[Identifying Topology of Low Voltage Distribution Networks Based on Smart Meter Data]*
+	
