@@ -9,4 +9,8 @@
 
 *[Low-Voltage Distribution Grid Topology Identification With Latent Tree Model]*
 	使用EM和BIC网络
+
+提供了一组算例
+
+*[An Improved Algorithm for Topology Identification … and Its Application for Fault Detection]*
  
