@@ -14,6 +14,10 @@
 
 *[An Improved Algorithm for Topology Identification … and Its Application for Fault Detection]*
 	 传统方法，递归分组，需要电流
+	
+提供电表数据
 
 *[Topology  identification of radial distribution networks using smart meter data]*
-	传统
+	传统RG方法，标准灵敏度分析，
+*[Topology Identification of Distribution Networks With Partial Smart Meter Coverage]*
+	同作者论文，使用了部分电表数据，做低可观性部分分析
