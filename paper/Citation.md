@@ -35,7 +35,12 @@
 *[Graph Algorithms for Topology Identification Using Power Grid Probing]*
 Probing 系列，使用主动逆变器进行扰动，增强数据获取；分析了使用部分数据和含噪声情形下的拓扑恢复工作
 
+*[TOPOLOGY ESTIMATION IN LOW VOLTAGE GRIDS USING  WALLBOX CHARGING DATA RECORDINGS]*
+已有利用EV进行工程化实践的研究
 
+*[Topology and Parameter Identification of Three-Phase Low-Voltage Distribution Network and Voltage Control Strategy Based on User Smart Meter Measurements: A Data-Driven Approach]*
+使用了三相数据，增加的相序辨识的工作
 
+[]
 
 
