@@ -51,7 +51,7 @@
 	使用优化方法和稀疏表示，在稀疏信息下完成开关状态的辨识
 
 *[Topology and Parameter Identification of Distribution Network Using Smart Meter and µPMU Measurements]*
-	使用uPMU进行量测，
+	使用uPMU进行量测，进一步讨论了uPMU的建模
 
 
 
