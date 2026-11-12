@@ -45,7 +45,7 @@
 	高压网算例，利用二元变量建模线路拓扑错误
 
 *[[Topology Identification in Distribution Systems Using Line Current Sensors: An MILP Approach]]*
-	
+	相似方法，
 
 *[Joint Topology Identification and State Estimation in Unobservable]*
 	使用优化方法和稀疏表示，在稀疏信息下完成开关状态的辨识
