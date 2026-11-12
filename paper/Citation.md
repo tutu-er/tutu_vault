@@ -63,7 +63,7 @@
 	使用电压概率图模型，并利用互信息进行树生成
 
 *[Graphical Models in Meshed Distribution Grids: Topology Estimation, Change Detection & Limitations]*
-	利用协方差矩阵作为主要的
+	利用协方差矩阵作为主要的辨识依据，并使用二次图结构特点进行辨识
 
 
 
