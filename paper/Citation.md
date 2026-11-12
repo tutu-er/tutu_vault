@@ -42,6 +42,6 @@
 	使用了三相数据，增加的相序辨识的工作
 
 [[An Optimization-Based Topology Error Detection Method for Power System State Estimation](https://doi.org/10.1016/j.epsr.2022.107914)]
-	高压网
+	高压网算例，
 
 
