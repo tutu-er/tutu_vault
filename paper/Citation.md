@@ -42,6 +42,9 @@
 	使用了三相数据，增加的相序辨识的工作
 
 [[An Optimization-Based Topology Error Detection Method for Power System State Estimation](https://doi.org/10.1016/j.epsr.2022.107914)]
-	高压网算例，
+	高压网算例，利用二元变量建模线路拓扑错误
+
+*[[Topology Identification in Distribution Systems Using Line Current Sensors: An MILP Approach](https://doi.org/10.1109/TSG.2019.2933006)]*
+	
 
 
