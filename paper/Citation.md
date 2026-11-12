@@ -54,7 +54,7 @@
 	使用多种量测设备进行量测，并恢复相角数据，进一步讨论了uPMU的最优选址
 
 *[Bayesian Error-in-Variables Models for the Identification of Power Networks]*
-	li
+	利用贝叶斯框架和uPMU量测等，利用
 
 
 
