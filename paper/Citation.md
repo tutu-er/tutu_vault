@@ -28,7 +28,12 @@
 	大型综述文章，综合了各种方法，包括LVDG
 
 *[Identifying Topology of Low Voltage Distribution Networks Based on Smart Meter Data]*
-	使用电量
+	使用电量量测和相关性分析，逐层恢复拓扑连接
 
 提供标准算例
+
+*[Graph Algorithms for Topology Identification Using Power Grid Probing]*
+Probing 系列，
+
+
 
