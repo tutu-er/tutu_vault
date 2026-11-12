@@ -57,6 +57,10 @@
 	利用贝叶斯框架和uPMU量测等，利用
 
 *[PaToPaEM: A Data-Driven Parameter and Topology Joint Estimation Framework for Time Varying System in Distribution Grids]*
+	使用EM算法估计运行状态，讨论潜在的多个候选拓扑
+
+*[Distributed Energy Resources Topology Identification via Graphical Modeling]*
+	使用电压概率图模型，并利用互信息进行树生成
 
 
 
