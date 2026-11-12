@@ -33,7 +33,7 @@
 提供标准算例
 
 *[Graph Algorithms for Topology Identification Using Power Grid Probing]*
-Probing 系列，
+Probing 系列，使用主动逆变器进行分析了使用部分数据和
 
 
 
