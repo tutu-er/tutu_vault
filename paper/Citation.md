@@ -33,7 +33,7 @@
 提供标准算例
 
 *[Graph Algorithms for Topology Identification Using Power Grid Probing]*
-Probing 系列，使用主动逆变器进行分析了使用部分数据和
+Probing 系列，使用主动逆变器进行扰动，增强数据获取；分析了使用部分数据和含噪声情形下的拓扑恢复工作
 
 
 
