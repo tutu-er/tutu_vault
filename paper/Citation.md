@@ -84,5 +84,7 @@
 	完善了传统中使用特征电流进行拓扑辨识的方法
 
 *[Error Bounds for Radial Network Topology Learning From Quantized Measurements]*
-	
+	估计了噪声在配电网拓扑辨识和参数拟合中的影响
+
+*[Distribution Network Topology Identification Using Asynchronous Transformer Monitoring Data]*
 
