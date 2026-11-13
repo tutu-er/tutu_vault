@@ -65,5 +65,7 @@
 *[Graphical Models in Meshed Distribution Grids: Topology Estimation, Change Detection & Limitations]*
 	利用协方差矩阵作为主要的辨识依据，并使用二次图结构特点进行辨识
 
+*[Guaranteed Phase & Topology Identification in Three Phase Distribution Grids]*
+
 
 
