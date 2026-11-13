@@ -71,7 +71,11 @@
 *[Simultaneous Robust State Estimation, Topology Error Processing, and Outage Detection for Unbalanced Distribution Systems]*
 	
 
+*[A data driven approach to distribution network topology identification]*
+	早期LVDG latent 节点辨识工作，使用电压灵敏度矩阵，使用Purfer序列逐步恢复拓扑
 
+*[Adaptive optimal-weight method for topology identification and line parameter estimation of large-scale low-voltage distribution grids]*
+	近期隐藏节点工作，
 
 
 
