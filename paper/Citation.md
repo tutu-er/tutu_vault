@@ -69,7 +69,7 @@
 	从三相线性模型出发，以多相电压统计联合识别相别和拓扑，给出判别条件
 
 *[Simultaneous Robust State Estimation, Topology Error Processing, and Outage Detection for Unbalanced Distribution Systems]*
-	
+	将配电网的开关状态作为二进制决策变量，使用AC模型的线性近似，同时完成拓扑识别、状态估计和停电区域检测
 
 *[A data driven approach to distribution network topology identification]*
 	早期LVDG latent 节点辨识工作，使用电压灵敏度矩阵，使用Purfer序列逐步恢复拓扑
