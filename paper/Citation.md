@@ -75,7 +75,7 @@
 	早期LVDG latent 节点辨识工作，使用电压灵敏度矩阵，使用Purfer序列逐步恢复拓扑
 
 *[Adaptive optimal-weight method for topology identification and line parameter estimation of large-scale low-voltage distribution grids]*
-	近期隐藏节点工作，
+	近期隐藏节点工作，耦合了大量启发式算法的工作
 
 *[Topology Identification in Distribution Networks using Harmonic Synchrophasor Measurements]*
 	使用谐波信息进行开关状态辨识
