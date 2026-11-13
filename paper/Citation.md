@@ -81,5 +81,8 @@
 	使用谐波信息进行开关状态辨识
 
 *[Signal Injection-Based Topology Identification for Low-Voltage Distribution Networks Considering Missing Data]*
+	完善了传统中使用特征电流进行拓扑辨识的方法
+
+*[Error Bounds for Radial Network Topology Learning From Quantized Measurements]*
 	
 
