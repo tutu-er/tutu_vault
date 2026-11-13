@@ -77,5 +77,9 @@
 *[Adaptive optimal-weight method for topology identification and line parameter estimation of large-scale low-voltage distribution grids]*
 	近期隐藏节点工作，
 
+*[Topology Identification in Distribution Networks using Harmonic Synchrophasor Measurements]*
+	使用谐波信息进行开关状态辨识
 
+*[Signal Injection-Based Topology Identification for Low-Voltage Distribution Networks Considering Missing Data]*
+	
 
