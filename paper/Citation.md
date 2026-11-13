@@ -105,4 +105,3 @@
 *[Learning Latent Tree Graphical Models]*
 	RG方法来源，需要与前面使用这两种方法的LVDG辨识一块说
 
-[Show Me the Money! A Field Experiment on Electric Vehicle Charge Timing](https://doi.org/10.1257/pol.20230653)
