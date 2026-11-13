@@ -87,4 +87,7 @@
 	估计了噪声在配电网拓扑辨识和参数拟合中的影响
 
 *[Distribution Network Topology Identification Using Asynchronous Transformer Monitoring Data]*
+	也是辨识了开关状态，使用了整数变量松弛代表未测相角
+
+*[Full-Scale Distribution System Topology Identification Using Markov Random Field]*
 
