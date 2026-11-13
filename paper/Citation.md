@@ -91,3 +91,8 @@
 
 *[Full-Scale Distribution System Topology Identification Using Markov Random Field]*
 
+
+*[Power Distribution Network Topology Detection Using Dual-Graph Structure Graph Neural Network Model]*
+	双图GNN方法，利用数据训练得到当前拓扑状态，有一定泛化性，但受限于已知线路
+
+*[Adaptive Physics-Informed Data-Driven Topology Identification for Distribution Networks]*
