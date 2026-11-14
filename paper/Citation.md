@@ -90,7 +90,7 @@
 	也是辨识了开关状态，使用了整数变量松弛代表未测相角
 
 *[Full-Scale Distribution System Topology Identification Using Markov Random Field]*
-
+	离散化了节点状态，利用图模型学习节点之间相关性
 
 *[Power Distribution Network Topology Detection Using Dual-Graph Structure Graph Neural Network Model]*
 	双图GNN方法，利用数据训练得到当前拓扑状态，有一定泛化性，但受限于已知线路
@@ -107,7 +107,7 @@
 
 
 *[Distribution grid impedance & topology estimation with limited or no micro-PMUs]*
-
+	
 
 
 *[Inverse Power Flow Problem]*
