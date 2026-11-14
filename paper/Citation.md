@@ -105,10 +105,8 @@
 *[Learning Latent Tree Graphical Models]*
 	RG方法来源，需要与前面使用这两种方法的LVDG辨识一块说
 
-
 *[Distribution grid impedance & topology estimation with limited or no micro-PMUs]*
-	
-
+	使用灵敏度矩阵和Cholesky白化，利用大量数据滤掉了隐藏节点潜在负荷的误差
 
 *[Inverse Power Flow Problem]*
 	同样使用灵敏度矩阵，但是针对非辐射状网，较理想
